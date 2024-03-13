@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../backend_rate_repository_app/rate-repository-api"
 		}
 	],
 	"settings": {}
